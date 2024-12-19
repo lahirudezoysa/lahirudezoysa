@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lahirudezoysa
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in softare development
+- 🌱 I’m currently learning fullstack development
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me on deepthe14@gmail.com
 
