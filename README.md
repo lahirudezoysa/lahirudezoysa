@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lahirudezoysa
-- 👀 I’m interested in softare development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning fullstack development
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me on deepthe14@gmail.com
